@@ -3,15 +3,7 @@
 ## About Me
 <img src="https://github.com/fvkd/fvkd/blob/main/assets/sphynx-cat.gif" align="right" width="150px">
 
-- Nickname: vi|vi|vi
-- Interests: 🕵️‍♂️ infosec, 🔧 cross-platform declarative system builds, 🔌 bit banging, 🔨 PCB/circuit bending fvckery
-- Currently learning: to patiently relearn myself with major life coaching guidance from my sphynx cat
-
-## 🔥 Let's Collaborate 🔥
-I'm always eager to learn new things. If you'd like to collaborate on a project, feel free to reach out!
-
-### 📬 How to reach me:
-(mailto:themotherfvcker@skiff.com) [themotherfvcker@skiff.com](mailto:themotherfvcker@skiff.com)
+vi|vi|vi
 
 <!---
 fvkd/fvkd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
